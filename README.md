@@ -1,4 +1,5 @@
 # Blog Management API
+- This is developed and tested in windows 11 OS
 
 ## Overview
 The Blog Management API is a RESTful API built with Node.js and Express that allows users to register, log in, and manage blogs. It supports JWT authentication for secure access to private endpoints.
@@ -23,7 +24,7 @@ The Blog Management API is a RESTful API built with Node.js and Express that all
    ```
 2. Navigate to the project directory:
    ```
-   cd blog-management-api
+   cd <repository-name>
    ```
 3. Install dependencies:
    ```
